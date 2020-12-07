@@ -1,0 +1,3 @@
+export const ALL_FILES = 'ALL_FILES';
+export const ALL_FILES_SUCCESS = 'ALL_FILES_SUCCESS';
+export const ALL_FILES_ERROR = 'ALL_FILES_ERROR';

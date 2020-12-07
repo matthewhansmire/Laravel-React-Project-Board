@@ -1,0 +1,3 @@
+export const ALL_NOTES = 'ALL_NOTES';
+export const ALL_NOTES_SUCCESS = 'ALL_NOTES_SUCCESS';
+export const ALL_NOTES_ERROR = 'ALL_NOTES_ERROR';

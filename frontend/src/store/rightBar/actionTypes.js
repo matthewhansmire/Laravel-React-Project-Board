@@ -1,0 +1,5 @@
+/* RIGHT SIDEBAR */
+export const SHOW_RIGHTBAR = "SHOW_RIGHTBAR";
+export const HIDE_RIGHTBAR = "HIDE_RIGHTBAR";
+
+export const RIGHTBAR_PARAM = 'RIGHTBAR_PARAM';

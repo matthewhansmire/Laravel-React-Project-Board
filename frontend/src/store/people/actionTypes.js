@@ -1,0 +1,3 @@
+export const ALL_PEOPLE = 'ALL_PEOPLE';
+export const ALL_PEOPLE_SUCCESS = 'ALL_PEOPLE_SUCCESS';
+export const ALL_PEOPLE_ERROR = 'ALL_PEOPLE_ERROR';
