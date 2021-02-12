@@ -1,6 +1,3 @@
-All-In-One Project Management System
-
-
 # All-In-One Project Management System
 
 # Architecture
